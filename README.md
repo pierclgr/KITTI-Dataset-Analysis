@@ -1,2 +1,2 @@
 # KITTI-dataset-analysis
-An analysis of KITTi dataset.
+Some tests made on KITTI dataset in order to perform some dataset analysis.
